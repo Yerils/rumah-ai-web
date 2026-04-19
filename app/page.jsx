@@ -374,7 +374,7 @@ export default function Home() {
           .hero-h1{font-size:48px}
           .sec-title{font-size:42px}
           .about-grid{grid-template-columns:1fr}
-          .about-img-main{aspect-ratio:16/9; object-fit:cover;}
+          .about-img-main{aspect-ratio:auto; object-fit:cover;}
           .prop-grid{grid-template-columns:1fr 1fr}
           .loc-grid{grid-template-columns:1fr}
           .map-wrap{height:340px}
