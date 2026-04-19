@@ -770,7 +770,7 @@ export default function Home() {
             </div>
             <div className="map-wrap r d3">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15894.498188166548!2d119.5312!3d-5.1637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dbee51234567890%3A0x0!2sMoncongloe%2C+Maros!5e0!3m2!1sid!2sid!4v1700000000000!5m2!1sid!2sid"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63574.75089102016!2d119.5883316075195!3d-5.196178091913192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dbee5b75a248af5%3A0x8bc3a7d3c3f478e!2sHenny_Land!5e0!3m2!1sid!2sid!4v1776448952783!5m2!1sid!2sid"
                 allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade" title="Peta Lokasi Moncongloe">
               </iframe>
             </div>
