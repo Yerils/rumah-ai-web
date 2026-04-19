@@ -645,22 +645,22 @@ export default function Home() {
           </div>
           <div className="prop-grid">
             
-            {/* TIPE 36/73 (AKTIF) */}
+            {/* TIPE 36/72 (AKTIF) */}
             <div className="pcard r d1">
               <div className="pcard-img">
                 <img src="/promo-1.jpg" alt="Tipe 36/73" />
                 <span className="pcard-badge" style={{ background: "#D4A843" }}>
                   Penawaran Perdana
                 </span>
-                <span className="pcard-type">Tipe 36/73</span>
+                <span className="pcard-type">Tipe 36/72</span>
               </div>
               <div className="pcard-body">
-                <div className="pcard-name">Tipe 36/73</div>
+                <div className="pcard-name">Tipe 36/72</div>
                 <div className="pcard-desc">
                   Hunian modern, aman, dan nyaman yang didesain khusus untuk Anda yang mencari keseimbangan investasi di masa depan.
                 </div>
                 <div className="pcard-tags">
-                  <span className="ptag">36 / 73 m²</span>
+                  <span className="ptag">36 / 72 m²</span>
                   <span className="ptag">Bebas Banjir</span>
                   <span className="ptag">Lingkungan Hijau</span>
                 </div>
